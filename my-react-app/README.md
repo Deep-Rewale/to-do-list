@@ -52,7 +52,7 @@ npm run preview
 
 The build will be created in the dist/ folder.
 
-![Todo List Screenshot](./screenshot/project.png)
+![Todo List Screenshot](my-react-app/screenshot/project.png)
 
 
 
