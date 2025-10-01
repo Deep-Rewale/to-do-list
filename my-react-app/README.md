@@ -20,8 +20,8 @@ Users can type a task and add it to the list.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Deep-Rewale/todo-list-react.git
-cd todo-list-react
+git clone https://github.com/Deep-Rewale/to-do-list.git
+cd /to-do-list
 
 2️⃣ Install dependencies
 
